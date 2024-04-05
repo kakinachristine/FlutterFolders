@@ -1,17 +1,18 @@
-# flutter_folders
-
-flutter_folders/
-
--assets/
-    images/
-      -image1.jpg
-      -image2.jpg
-    fonts/
-       -font1.ttf
-       -font2.ttf
-    logos/
-      -logo1.png
-      -logo2.png
+my_flutter_app/
+  ├── android/
+  ├── ios/
+  ├── assets/
+  │   ├── images/
+  │   │   ├── image1.jpg
+  │   │   ├── image2.jpg
+  │   │   └── ...
+  │   ├── fonts/
+  │   │   ├── font1.ttf
+  │   │   ├── font2.ttf
+  │   │   └── ...
+  │   └── logos/
+  │       ├── logo1.png
+  │       ├── logo2.png
   │       └── ...
   ├── lib/
   │   ├── Screens/
